@@ -3,7 +3,10 @@ Web Mining Final Project - Spam-Not-Spam Made by Rozerin Yıldız and Ayşe Odun
 
 Dataset: https://www.kaggle.com/datasets/ozlerhakan/spam-or-not-spam-dataset
 
-![download](https://github.com/Web-Mining-Final-Project/Web-Mining-Final-Project/assets/59964531/0e24f840-d859-45bc-bcad-091de3084d1d)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/Web-Mining-Final-Project/Web-Mining-Final-Project/assets/59964531/0e24f840-d859-45bc-bcad-091de3084d1d)" />
+</p>
+
 
 Rozerin Yıldız:
 - Data Preprocessing  
