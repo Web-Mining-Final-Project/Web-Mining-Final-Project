@@ -6,16 +6,16 @@ Dataset: https://www.kaggle.com/datasets/ozlerhakan/spam-or-not-spam-dataset
 ![download](https://github.com/Web-Mining-Final-Project/Web-Mining-Final-Project/assets/59964531/0e24f840-d859-45bc-bcad-091de3084d1d)
 
 Rozerin Yıldız:
--Data Preprocessing 
--Naive Bayes Classifier 
--K-Nearest Neighbors Algorithm 
--Decision Tree Learning  
+- Data Preprocessing  
+- Naive Bayes Classifier 
+- K-Nearest Neighbors Algorithm 
+- Decision Tree Learning  
 
 Ayşe Oduncu:
--Support Vector Machine (SVM)  
--Random Forest 
--Method Comparison 
--ROC Accuracy 
+- Support Vector Machine (SVM)  
+- Random Forest 
+- Method Comparison 
+- ROC Accuracy 
 
 
 # Conclusion:
