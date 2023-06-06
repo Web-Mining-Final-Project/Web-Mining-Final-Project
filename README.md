@@ -5,7 +5,7 @@ Dataset: https://www.kaggle.com/datasets/ozlerhakan/spam-or-not-spam-dataset
 
 
 <p align="center">
-  <img src="https://github.com/Web-Mining-Final-Project/Web-Mining-Final-Project/assets/59964531/0e24f840-d859-45bc-bcad-091de3084d1d">
+  <img width="460" height="300" src="https://github.com/Web-Mining-Final-Project/Web-Mining-Final-Project/assets/59964531/0e24f840-d859-45bc-bcad-091de3084d1d">
 </p>
 
 Rozerin Yıldız:
@@ -24,10 +24,14 @@ Ayşe Oduncu:
 # Conclusion:
 
 ## Model Comparison:
-![results](https://github.com/Web-Mining-Final-Project/Web-Mining-Final-Project/assets/59964531/e7b15a8c-e515-46f7-a796-d3524f15a1b6)
 
-![download](https://github.com/Web-Mining-Final-Project/Web-Mining-Final-Project/assets/59964531/874f4b7c-2734-4357-aed4-c01a21dfa3aa)
+<p align="center">
+  <img src="https://github.com/Web-Mining-Final-Project/Web-Mining-Final-Project/assets/59964531/e7b15a8c-e515-46f7-a796-d3524f15a1b6">
+</p>
 
+<p align="center">
+  <img src="https://github.com/Web-Mining-Final-Project/Web-Mining-Final-Project/assets/59964531/874f4b7c-2734-4357-aed4-c01a21dfa3aa">
+</p>
 
 We used Spam or Not Spam Dataset to create several models and compare their
 accuracies finding whether an email is spam or not. In conclusion, the performance
